@@ -10,7 +10,7 @@
 **What everyone assumes BTO stands for:** Something prestigious.
 **What it actually stands for:** Boil The Ocean.
 
-BTO Group is a mid-sized strategy and transformation consultancy founded in 2011. Headquartered in Chicago with offices in New York, Austin, and London. The firm employs ~380 consultants across four practice areas and competes squarely against the Big 4 advisory arms (Deloitte, PwC, KPMG, EY) and strategy boutiques like Kearney and West Monroe.
+BTO Group is a mid-sized strategy and transformation consultancy founded in 2011. Headquartered in Seattle with offices in New York, Austin, and London. The firm employs ~380 consultants across four practice areas and competes squarely against the Big 4 advisory arms (Deloitte, PwC, KPMG, EY) and strategy boutiques like Kearney and West Monroe.
 
 BTO's market position is deliberately paradoxical: a firm named after the consulting anti-pattern, staffed by people who've escaped larger firms, selling the promise that they won't do the thing their name implies. That self-awareness is real and it shows up in how BTO people talk - direct, occasionally self-deprecating, allergic to jargon they can't back up.
 
