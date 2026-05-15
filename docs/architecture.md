@@ -191,4 +191,4 @@ scout/
 
 ## Security & Data Privacy
 
-Security and data privacy considerations for Scout, including CRM data handling, Anthropic API data retention, prompt injection risk, authentication, and a pre-deployment checklist, are documented in [`SECURITY.md`](../SECURITY.md). If you are evaluating Scout for internal deployment, share that document with your information security lead before connecting Scout to a production CRM.
+Security and data privacy considerations for Scout, including CRM data handling, Anthropic API data retention, prompt injection risk, authentication, and a pre-deployment checklist, are documented in [`SECURITY.md`](../security.md). If you are evaluating Scout for internal deployment, share that document with your information security lead before connecting Scout to a production CRM.
