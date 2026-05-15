@@ -214,4 +214,4 @@ Built by **Bryon Scharenberg**: strategy and transformation background, currentl
 
 ## License
 
-MIT. Fork it, adapt it, use it. If you build something with it, I'd genuinely like to hear about it.
+MIT. Fork it, adapt it, use it. If you build something with it, tell me! I'd genuinely like to hear about it.
