@@ -16,7 +16,8 @@ This repo demonstrates the architecture, knowledge design, and product thinking 
 
 ## Demo
 
-> *GIF or screenshot goes here. See the repo wiki for recording instructions.*
+> <img width="618" height="638" alt="Screenshot 2026-05-22 at 11 04 39 AM" src="https://github.com/user-attachments/assets/ec138f71-bc21-4d38-9b80-5ca71de7438b" />
+
 
 ---
 
