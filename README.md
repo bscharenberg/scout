@@ -1,6 +1,6 @@
 # Scout — AI Sales Assistant for B2B Services Firms
 
-> *Built on Claude. Inspired by a real internal tool. Fictional company, real architecture thinking.*
+> *Built on Claude, with a fictional company, but based on real architecture thinking.*
 
 ---
 
@@ -8,7 +8,7 @@
 
 Scout is an AI-powered sales assistant designed for relationship-led B2B services firms: consultancies, professional services, advisory practices. It helps sellers prepare for client conversations, handle objections, coach active deals, shape engagements into proposals, and get up to speed on how the firm actually talks.
 
-This repo demonstrates the architecture, knowledge design, and product thinking behind a Claude-powered internal sales tool. It uses a fictional consulting firm called **BTO Group**. The name is intentionally on the nose; a consulting industry inside-joke. If it's not immediately obvious, BTO is a wink at the consulting habit of taking a focused business problem and expanding it into a sweeping, enterprise-wide transformation effort. Then you'll know what "BTO" stands for.
+This repo demonstrates the architecture, knowledge design, and product thinking behind a Claude-powered sales enablement concept. It uses a fictional consulting firm called **BTO Group**. The name is intentionally on the nose; a consulting industry inside-joke. If it's not immediately obvious, BTO is a wink at the consulting habit of taking a focused business problem and expanding it into a sweeping, enterprise-wide transformation effort. Then you'll know what "BTO" stands for.
 
 **Scout is not a toy demo.** The goal is a forkable starting point someone could adapt to a real firm in a day.
 
