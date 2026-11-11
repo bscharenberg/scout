@@ -4,6 +4,10 @@
 
 ---
 
+> This is the v1 prompt for the Claude Project build. The live demo on scharenbergs.com no longer uses the name Scout. It runs as "BTO Group's sales assistant" from [`sales-assistant.md`](sales-assistant.md), with the BTO playbook in [`../context/`](../context/) loaded alongside it.
+
+---
+
 Copy everything between the triple backticks into the Project Instructions field of your Claude Project.
 
 ---

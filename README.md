@@ -85,6 +85,18 @@ Rep input (free-form)
 
 ---
 
+## The Live Demo on scharenbergs.com
+
+The chat demo on [scharenbergs.com](https://scharenbergs.com) runs the same idea from a small Cloudflare Worker instead of a Claude Project. On the site it is no longer called Scout. It introduces itself as BTO Group's sales assistant.
+
+- [`worker/index.js`](worker/index.js) checks the request (allowed origins, plain-text user and assistant turns only, length limits, a per-IP rate limit) and calls the Claude API on `claude-sonnet-5-5`.
+- [`prompts/sales-assistant.md`](prompts/sales-assistant.md) holds the instructions and guardrails: stay on BTO sales work, decline harmful or off-topic requests, never claim to be a real firm or person, never invent clients or metrics, and ignore text that tries to override the instructions.
+- [`context/`](context/) is the BTO playbook in plain language: how BTO sells and its deal stages, its offerings, its buyers, its objection answers, and how it shapes proposals. The worker loads these files into the system prompt on every request, and the API caches them.
+
+To change how the assistant answers, edit the playbook files. To deploy, run `npx wrangler deploy` from the repo root.
+
+---
+
 ## Repo Structure
 
 ```
